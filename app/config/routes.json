@@ -1,0 +1,27 @@
+[
+  {
+    "path": "/test",
+    "method": "GET",
+    "controller": "HomeController"
+  },
+  {
+    "path": "/contact",
+    "method": "POST",
+    "controller": "ContactpingController"
+  },
+  {
+    "path": "/contact",
+    "method": "GET",
+    "controller": "ContactpingController"
+  },
+  {
+    "path": "/contact",
+    "method": "PATCH",
+    "controller": "ContactpingController"
+  },
+  {
+    "path": "/contact",
+    "method": "DELETE",
+    "controller": "ContactpingController"
+  }
+]
