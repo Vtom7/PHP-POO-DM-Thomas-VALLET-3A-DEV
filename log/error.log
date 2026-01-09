@@ -1,0 +1,58 @@
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 20:49:39.887956 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 20:49:39.889122 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 21:01:19.647447 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 21:04:15.536548 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 21:04:15.560198 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 21:22:28.837279 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 21:22:28.838219 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 21:37:48.538612 2026] [core:warn] [pid 1:tid 1] AH00045: child process 17 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:48.882713 2026] [core:warn] [pid 1:tid 1] AH00045: child process 18 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:48.919556 2026] [core:warn] [pid 1:tid 1] AH00045: child process 19 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:48.954773 2026] [core:warn] [pid 1:tid 1] AH00045: child process 20 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:49.068911 2026] [core:warn] [pid 1:tid 1] AH00045: child process 21 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:49.076633 2026] [core:warn] [pid 1:tid 1] AH00045: child process 22 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:49.145323 2026] [core:warn] [pid 1:tid 1] AH00045: child process 23 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.190633 2026] [core:warn] [pid 1:tid 1] AH00045: child process 17 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.261328 2026] [core:warn] [pid 1:tid 1] AH00045: child process 18 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.342756 2026] [core:warn] [pid 1:tid 1] AH00045: child process 19 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.402576 2026] [core:warn] [pid 1:tid 1] AH00045: child process 20 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.414237 2026] [core:warn] [pid 1:tid 1] AH00045: child process 21 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.450460 2026] [core:warn] [pid 1:tid 1] AH00045: child process 22 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:50.450930 2026] [core:warn] [pid 1:tid 1] AH00045: child process 23 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.513242 2026] [core:warn] [pid 1:tid 1] AH00045: child process 17 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.536905 2026] [core:warn] [pid 1:tid 1] AH00045: child process 18 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.543569 2026] [core:warn] [pid 1:tid 1] AH00045: child process 19 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.641953 2026] [core:warn] [pid 1:tid 1] AH00045: child process 20 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.692350 2026] [core:warn] [pid 1:tid 1] AH00045: child process 21 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.716012 2026] [core:warn] [pid 1:tid 1] AH00045: child process 22 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:51.766286 2026] [core:warn] [pid 1:tid 1] AH00045: child process 23 still did not exit, sending a SIGTERM
+[Mon Jan 05 21:37:52.877758 2026] [core:error] [pid 1:tid 1] AH00046: child process 17 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:52.914084 2026] [core:error] [pid 1:tid 1] AH00046: child process 18 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:52.941143 2026] [core:error] [pid 1:tid 1] AH00046: child process 19 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:52.942015 2026] [core:error] [pid 1:tid 1] AH00046: child process 20 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:52.997561 2026] [core:error] [pid 1:tid 1] AH00046: child process 21 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:53.131832 2026] [core:error] [pid 1:tid 1] AH00046: child process 22 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:53.312327 2026] [core:error] [pid 1:tid 1] AH00046: child process 23 still did not exit, sending a SIGKILL
+[Mon Jan 05 21:37:54.334224 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00173: SIGHUP received.  Attempting to restart
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 21:38:22.984898 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 21:38:23.067988 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 22:05:41.822970 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 22:06:05.227053 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 22:06:05.228059 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 22:06:46.124400 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 22:06:48.526188 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 22:06:48.530082 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 22:07:33.678081 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 22:07:37.166741 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 22:07:37.167884 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
+[Mon Jan 05 22:10:22.846912 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00170: caught SIGWINCH, shutting down gracefully
+AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Jan 05 22:10:25.640048 2026] [mpm_prefork:notice] [pid 1:tid 1] AH00163: Apache/2.4.65 (Debian) PHP/8.4.16 configured -- resuming normal operations
+[Mon Jan 05 22:10:25.641724 2026] [core:notice] [pid 1:tid 1] AH00094: Command line: 'apache2 -D FOREGROUND'
